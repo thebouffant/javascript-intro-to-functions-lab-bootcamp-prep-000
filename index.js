@@ -3,6 +3,11 @@ function shout(string) {
   return string.toUpperCase()
 }
 
-function shout(string) {
+function sayHiToGrandma(string) {
+ 
+ if (string.toUpperCase === string) {
+   
+ }
+ 
   return string.toUpperCase()
 }
